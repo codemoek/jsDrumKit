@@ -1,1 +1,1 @@
-There is a js drum kit
+One of the #javascript30 challenge project
